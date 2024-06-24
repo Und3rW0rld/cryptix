@@ -1,0 +1,23 @@
+*{
+    margin:0;
+    padding: 0;
+    
+}
+html {
+    scroll-behavior: smooth;
+}
+.home{
+    background-color: rgb(215, 229, 250);
+    height: 17rem;
+    padding: 4rem;
+}
+.about{
+    background-color: rgb(250, 215, 215);
+    height: 17rem;
+    padding: 4rem;
+}
+.contact{
+    background-color: rgb(215, 250, 225);
+    height: 17rem;
+    padding: 4rem;
+}
